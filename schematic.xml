@@ -227,9 +227,9 @@
     <edges line="U3"/>
     <edges line="U4"/>
     <edges line="U6"/>
-    <station name="Aderklaaer Straße" x="576.277019" y="110.511511"/>
+    <station name="Aderklaaer Straße" x="577.232911" y="109.874249"/>
     <station name="Alaudagasse" x="422.679101" y="501.876994"/>
-    <station name="Alser Straße" x="242.572517" y="204.052243"/>
+    <station name="Alser Straße" x="247.989241" y="194.811949"/>
     <station name="Alte Donau" x="510.989437" y="164.826596"/>
     <station name="Alterlaa" x="165.180131" y="438.916418"/>
     <station name="Altes Landgut" x="406.763981" y="482.525898"/>
@@ -237,8 +237,8 @@
     <station name="Aspern Nord" x="695.225450" y="188.360296"/>
     <station name="Aspernstraße" x="645.358072" y="221.587585"/>
     <station name="Bahnhof Meidling" x="217.134908" y="400.812239"/>
-    <station name="Braunschweiggasse" x="136.500068" y="342.427230"/>
-    <station name="Burggasse-Stadthalle" x="223.585882" y="270.727749"/>
+    <station name="Braunschweiggasse" x="148.188917" y="342.533537"/>
+    <station name="Burggasse-Stadthalle" x="225.816298" y="265.629656"/>
     <station name="Donauinsel" x="478.345646" y="191.984138"/>
     <station name="Donaumarina" x="541.495060" y="272.957491"/>
     <station name="Donauspital" x="626.765323" y="228.153393"/>
@@ -251,50 +251,50 @@
     <station name="Friedensbrücke" x="333.287916" y="180.510810"/>
     <station name="Gasometer" x="508.822511" y="374.001513"/>
     <station name="Großfeldsiedlung" x="592.598914" y="96.932740"/>
-    <station name="Gumpendorfer Straße" x="216.199354" y="320.061043"/>
+    <station name="Gumpendorfer Straße" x="224.961701" y="316.205610"/>
     <station name="Handelskai" x="413.472904" y="101.720336"/>
     <station name="Hardeggasse" x="599.636477" y="219.446910"/>
     <station name="Hausfeldstraße" x="662.580995" y="198.073347"/>
     <station name="Heiligenstadt" x="319.680114" y="101.947889"/>
     <station name="Herrengasse" x="340.768693" y="283.826079"/>
-    <station name="Hietzing" x="163.628623" y="342.604409"/>
+    <station name="Hietzing" x="179.213755" y="342.746152"/>
     <station name="Hütteldorf" x="55.114402" y="341.895694"/>
     <station name="Hütteldorfer Straße" x="172.168781" y="278.361194"/>
     <station name="Johnstraße" x="188.439828" y="284.836347"/>
-    <station name="Josefstädter Straße" x="230.235131" y="222.172778"/>
+    <station name="Josefstädter Straße" x="232.465547" y="218.986470"/>
     <station name="Jägerstraße" x="357.042546" y="134.749181"/>
     <station name="Kagran" x="527.311333" y="151.247825"/>
     <station name="Kagraner Platz" x="543.633228" y="137.669053"/>
     <station name="Kaisermühlen VIC" x="494.667542" y="178.405367"/>
     <station name="Kardinal-Nagl-Platz" x="462.680155" y="327.404746"/>
-    <station name="Karlsplatz" x="366.944542" y="327.963699"/>
+    <station name="Karlsplatz" x="364.164906" y="330.252811"/>
     <station name="Kendlerstraße" x="150.631109" y="268.936731"/>
     <station name="Keplerplatz" x="372.606335" y="423.271974"/>
-    <station name="Kettenbrückengasse" x="366.944542" y="327.963699"/>
+    <station name="Kettenbrückengasse" x="338.984676" y="332.378415"/>
     <station name="Krieau" x="497.599863" y="238.930244"/>
     <station name="Landstraße" x="418.522922" y="286.064426"/>
-    <station name="Leopoldau" x="592.598914" y="96.932740"/>
-    <station name="Längenfeldgasse" x="217.885733" y="342.958766"/>
+    <station name="Leopoldau" x="604.388254" y="87.373815"/>
+    <station name="Längenfeldgasse" x="222.983826" y="342.958766"/>
     <station name="Margaretengürtel" x="267.572003" y="337.960410"/>
-    <station name="Meidling Hauptstraße" x="217.885733" y="342.958766"/>
+    <station name="Meidling Hauptstraße" x="211.194486" y="343.277397"/>
     <station name="Messe-Prater" x="471.165643" y="227.194118"/>
     <station name="Michelbeuern-AKH" x="265.477453" y="176.361672"/>
     <station name="Museumsquartier" x="335.565993" y="318.653670"/>
     <station name="Nestroyplatz" x="421.297692" y="237.199194"/>
-    <station name="Neubaugasse" x="318.185068" y="284.074932"/>
+    <station name="Neubaugasse" x="295.549502" y="286.031912"/>
     <station name="Neue Donau" x="443.758348" y="69.641032"/>
     <station name="Neulaa" x="438.594221" y="521.228090"/>
     <station name="Niederhofstraße" x="217.443274" y="376.093965"/>
     <station name="Nußdorfer Straße" x="308.858403" y="144.190236"/>
-    <station name="Ober St. Veit" x="82.242958" y="342.072872"/>
+    <station name="Ober St. Veit" x="86.139240" y="342.108308"/>
     <station name="Oberlaa" x="454.509340" y="540.579187"/>
     <station name="Ottakring" x="129.093436" y="259.512267"/>
     <station name="Perfektastraße" x="112.865637" y="470.905398"/>
-    <station name="Pilgramgasse" x="317.258272" y="332.962055"/>
-    <station name="Praterstern" x="445.701856" y="219.141681"/>
+    <station name="Pilgramgasse" x="306.106193" y="335.192471"/>
+    <station name="Praterstern" x="446.020487" y="218.504419"/>
     <station name="Rathaus" x="326.271043" y="255.905757"/>
     <station name="Rennbahnweg" x="559.955123" y="124.090282"/>
-    <station name="Reumannplatz" x="384.517832" y="453.678258"/>
+    <station name="Reumannplatz" x="384.953090" y="452.372483"/>
     <station name="Rochusgasse" x="447.299370" y="311.872490"/>
     <station name="Roßauer Lände" x="347.866940" y="209.144416"/>
     <station name="Schlachthausgasse" x="478.060941" y="342.937002"/>
@@ -302,7 +302,7 @@
     <station name="Schottentor" x="341.300972" y="242.043252"/>
     <station name="Schwedenplatz" x="404.163989" y="251.994288"/>
     <station name="Schweglerstraße" x="204.710876" y="287.203533"/>
-    <station name="Schönbrunn" x="190.757178" y="342.781588"/>
+    <station name="Schönbrunn" x="196.537468" y="342.958766"/>
     <station name="Seestadt" x="711.065500" y="207.826804"/>
     <station name="Siebenhirten" x="86.708389" y="486.899888"/>
     <station name="Simmering" x="531.121208" y="430.308450"/>
@@ -315,15 +315,15 @@
     <station name="Südtiroler Platz-Hauptbahnhof" x="365.934448" y="398.919214"/>
     <station name="Taborstraße" x="401.952986" y="219.388590"/>
     <station name="Taubstummengasse" x="363.638723" y="360.959292"/>
-    <station name="Thaliastraße" x="229.030995" y="242.402059"/>
+    <station name="Thaliastraße" x="228.323346" y="239.697473"/>
     <station name="Troststraße" x="394.410066" y="468.120919"/>
     <station name="Tscherttegasse" x="206.163522" y="413.762071"/>
-    <station name="Unter St. Veit" x="109.371513" y="342.250051"/>
-    <station name="Volkstheater" x="318.185068" y="284.074932"/>
-    <station name="Vorgartenstraße" x="462.023751" y="205.562910"/>
-    <station name="Westbahnhof" x="220.458085" y="288.046193"/>
+    <station name="Unter St. Veit" x="117.164079" y="342.320923"/>
+    <station name="Volkstheater" x="324.388140" y="283.911424"/>
+    <station name="Vorgartenstraße" x="461.067859" y="205.881541"/>
+    <station name="Westbahnhof" x="224.699061" y="288.046193"/>
     <station name="Währinger Straße-Volksoper" x="286.184793" y="157.731368"/>
-    <station name="Zieglergasse" x="269.321576" y="286.060562"/>
+    <station name="Zieglergasse" x="265.637551" y="285.978809"/>
     <station name="Zippererstraße" x="508.822511" y="374.001513"/>
   </view>
 </omm-file>
