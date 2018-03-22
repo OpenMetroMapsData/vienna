@@ -245,14 +245,14 @@
     <station name="Donaustadtbrücke" x="564.674030" y="266.477899"/>
     <station name="Dresdner Straße" x="383.187459" y="133.799639"/>
     <station name="Enkplatz" x="528.224255" y="400.484895"/>
-    <station name="Erdberg" x="493.441726" y="358.469257"/>
+    <station name="Erdberg" x="487.774459" y="351.998867"/>
     <station name="Erlaaer Straße" x="139.022884" y="454.910908"/>
-    <station name="Floridsdorf" x="443.758348" y="69.641032"/>
+    <station name="Floridsdorf" x="460.951050" y="49.183893"/>
     <station name="Friedensbrücke" x="333.287916" y="180.510810"/>
-    <station name="Gasometer" x="508.822511" y="374.001513"/>
+    <station name="Gasometer" x="501.266155" y="365.374326"/>
     <station name="Großfeldsiedlung" x="592.598914" y="96.932740"/>
     <station name="Gumpendorfer Straße" x="224.961701" y="316.205610"/>
-    <station name="Handelskai" x="413.472904" y="101.720336"/>
+    <station name="Handelskai" x="409.108656" y="105.594390"/>
     <station name="Hardeggasse" x="599.636477" y="219.446910"/>
     <station name="Hausfeldstraße" x="662.580995" y="198.073347"/>
     <station name="Heiligenstadt" x="319.680114" y="101.947889"/>
@@ -266,7 +266,7 @@
     <station name="Kagran" x="527.311333" y="151.247825"/>
     <station name="Kagraner Platz" x="543.633228" y="137.669053"/>
     <station name="Kaisermühlen VIC" x="494.667542" y="178.405367"/>
-    <station name="Kardinal-Nagl-Platz" x="462.680155" y="327.404746"/>
+    <station name="Kardinal-Nagl-Platz" x="460.791066" y="325.247949"/>
     <station name="Karlsplatz" x="364.164906" y="330.252811"/>
     <station name="Kendlerstraße" x="150.631109" y="268.936731"/>
     <station name="Keplerplatz" x="372.606335" y="423.271974"/>
@@ -282,7 +282,7 @@
     <station name="Museumsquartier" x="335.565993" y="318.653670"/>
     <station name="Nestroyplatz" x="421.297692" y="237.199194"/>
     <station name="Neubaugasse" x="295.549502" y="286.031912"/>
-    <station name="Neue Donau" x="443.758348" y="69.641032"/>
+    <station name="Neue Donau" x="435.029853" y="77.389142"/>
     <station name="Neulaa" x="438.594221" y="521.228090"/>
     <station name="Niederhofstraße" x="217.443274" y="376.093965"/>
     <station name="Nußdorfer Straße" x="308.858403" y="144.190236"/>
@@ -297,7 +297,7 @@
     <station name="Reumannplatz" x="384.953090" y="452.372483"/>
     <station name="Rochusgasse" x="447.299370" y="311.872490"/>
     <station name="Roßauer Lände" x="347.866940" y="209.144416"/>
-    <station name="Schlachthausgasse" x="478.060941" y="342.937002"/>
+    <station name="Schlachthausgasse" x="474.282762" y="338.623408"/>
     <station name="Schottenring" x="367.493378" y="230.550287"/>
     <station name="Schottentor" x="341.300972" y="242.043252"/>
     <station name="Schwedenplatz" x="404.163989" y="251.994288"/>
@@ -324,6 +324,6 @@
     <station name="Westbahnhof" x="224.699061" y="288.046193"/>
     <station name="Währinger Straße-Volksoper" x="286.184793" y="157.731368"/>
     <station name="Zieglergasse" x="265.637551" y="285.978809"/>
-    <station name="Zippererstraße" x="508.822511" y="374.001513"/>
+    <station name="Zippererstraße" x="514.757851" y="378.749785"/>
   </view>
 </omm-file>
